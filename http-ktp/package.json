@@ -1,0 +1,15 @@
+{
+  "private": true,
+  "name": "http-ktp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@google-cloud/storage": "^2.5.0",
+    "busboy": "^0.3.1",
+    "uuid": "^3.3.2"
+  }
+}
